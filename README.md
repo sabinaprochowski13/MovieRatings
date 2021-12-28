@@ -16,7 +16,7 @@ Column 477: Social viewing preference – “movies are best enjoyed alone” (1
 
 Note most of the data munging was already completed (e.g. Python interprets commas in a csv file as separators, so all commas were removed from movie titles), but there are still missing values that needed to be handled for analysis. 
 
-Questions corporate would like you to answer:
+Questions corporate would like to be answered:
 1) What is the relationship between sensation seeking and movie experience?
 2) Is there evidence of personality types based on the data of these research participants? If so,
 characterize these types both quantitatively and narratively.
